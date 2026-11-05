@@ -19,33 +19,19 @@ Visual Studio Code
 Git & GitHub
 
 Topics Covered
-Area
-
-Concepts
-
 Process Management
-
-Processes and process states
 
 CPU Scheduling
 
-FCFS, SJF, Round Robin, Priority
-
-Synchronization
-
-Semaphores, Critical Sections
+Process Synchronization
 
 Deadlocks
 
-Prevention and Avoidance
-
 Memory Management
-
-Allocation and Paging
 
 Disk Scheduling
 
-Disk Scheduling Algorithms
+File Management
 
 Repository Goal
 
