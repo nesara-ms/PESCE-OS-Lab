@@ -11,18 +11,27 @@ This repository serves as a practical record of Operating Systems concepts, algo
 # Tech Stack
 
 C Programming
+
 GCC Compiler
+
 Visual Studio Code
+
 Git & GitHub
 
 # Topics Covered
 
 Process Management
+
 CPU Scheduling
+
 Process Synchronization
+
 Deadlocks
+
 Memory Management
+
 Disk Scheduling
+
 File Management
 
 # Repository Goal
