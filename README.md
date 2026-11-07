@@ -1,25 +1,27 @@
-# PESCE-OS-Lab
 
-# PESCE | Operating Systems Lab
-A collection of Operating Systems laboratory programs implemented in C as part of the Computer Science and Engineering curriculum at PESCE.
+# 💻 PESCE – Operating Systems Lab
 
-# Overview
--This repository serves as a practical record of Operating Systems concepts, algorithms, and implementations explored during laboratory sessions.
+📚 A collection of C programs and practical implementations completed as part of the **Operating Systems Laboratory at PESCE**.
 
-## Tech Stack
--C Programming
--GCC Compiler
--Visual Studio Code
--Git & GitHub
+### 🚀 Topics Covered
+- ⚙️ Process Management
+- 🔄 CPU Scheduling Algorithms
+- 🔐 Process Synchronization
+- 🚫 Deadlock Management
+- 🧠 Memory Management
+- 💾 Disk Scheduling
+- 📂 File Management
 
-### Topics Covered
--Process Management
--CPU Scheduling
--Process Synchronization
--Deadlocks
--Memory Management
--Disk Scheduling
--File Management
+### 🛠️ Technologies Used
+- C Programming
+- GCC Compiler
+- Visual Studio Code
 
-## Repository Goal
-Learn by implementing, understand by experimenting, and improve through consistent practice
+### 🎯 Objective
+To understand core Operating Systems concepts through practical implementation and hands-on programming.
+
+### 👨‍💻 Author
+**Nesara M S**
+CSE(BS)|PESCE
+
+⭐ *Learn. Implement. Improve.*
